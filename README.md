@@ -5,6 +5,8 @@ Meu nome é Gabriel, mas todos me conhecem pelo meu sobrenome **Regis**. Sou com
 Atualmente você pode me encontrar também na UFBA cursando Bacharelado Interdisciplinar em Ciência e Tecnologia e lá faço parte da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/.)
 
 ## Conhecimento
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regis2077&layout=compact)](https://github.com/regis2077)
+
 
 **Languages**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/regis2077/)](https://github.com/camillacorreia/)
