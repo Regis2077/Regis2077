@@ -27,5 +27,7 @@ Atualmente você pode me encontrar também na UFBA cursando Bacharelado Interdis
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/camillacorreia/)](https://github.com/2077/)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 
- 🤘 From [Regis](https://github.com/regis2077)
+ 🤘 Um prazer te ter por aqui
+ 
+ From [Regis](https://github.com/regis2077)
 
