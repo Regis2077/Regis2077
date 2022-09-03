@@ -1,6 +1,6 @@
 # Hello and welcome to my GitHub Profile 🤘
 
-I'm a FrontEnd Developer obsessed with the web ecosystem and trying to learn more about this universe every day.
+I'm a Front End Developer obsessed with the web ecosystem and trying to learn more about this universe every day.
 
 Currently you can also find me at the Universidade Federal da Bahia studying Interdisciplinary Bachelor of Science and Technology and there I am part of the Junior Company of Computer Engineering at UFBA - [TITAN](https://titanci.com.br/.)
 
