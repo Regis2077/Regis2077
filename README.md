@@ -1,12 +1,12 @@
 ## Hello and welcome to my GitHub Profile 🤘
 
-I’m a developer passionate about understanding the web in its entirety — not only how to build interfaces, but also how things work behind the scenes. My goal is to deeply understand every layer that involves web development: from architecture, backend, APIs, databases, and infrastructure to performance, SEO, accessibility, and user experience.
+I’m a developer passionate about understanding the web in its entirety — not only how to build interfaces, but also how things work behind the scenes. My goal is to deeply understand every layer that involves web development: from architecture, backend, APIs, databases, and infrastructure to performance, SEO, accessibility, and user experience. Beyond coding, I actively participate in architectural decisions, performance optimization, and improvements in scalability and maintainability.
 
-I currently work heavily within the **VTEX ecosystem**, building high-performance, scalable e-commerce solutions. My daily routine involves developing storefronts, landing pages, and headless commerce architectures with VTEX IO and FastStore. Beyond coding, I actively participate in architectural decisions, performance optimization, and improvements in scalability and maintainability.
+I currently work heavily within the VTEX ecosystem, building high-performance, scalable e-commerce solutions aimed at driving store growth, increasing conversion, and enhancing customer experience. My daily routine involves developing storefronts, landing pages, and headless commerce architectures with VTEX IO and FastStore to support business expansion and operational excellence.
 
-While I have strong experience in front-end development, my constant pursuit is to become a complete developer — someone who understands the full cycle of building modern web applications. From designing robust backend services and managing databases to deploying, monitoring, and optimizing applications in production.
+While I have strong frontend experience, I’m constantly evolving to become a complete developer — someone who understands the full cycle of modern web applications, from backend design and database management to deployment and production monitoring. I’m also interested in management, team organization, and technical leadership, aiming to combine technical excellence with efficient processes.
 
-I'm obsessed with the web and the future that technology is building, so working and discovering new technologies is extremely fun for me. I always like the feeling of learning new things and feeling challenged.
+I’m passionate about technology and the future it’s building. Learning new things and embracing challenges keep me motivated.
 
 ---
 
