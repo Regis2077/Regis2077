@@ -1,4 +1,4 @@
-## Thanks for your visit!
+## Hello and welcome to my GitHub Profile 🤘
 
 I'm obsessed with the web and the future that technology is building, so working and discovering new technologies is extremely fun for me. I always like the feeling of learning new things and feeling challenged.
 
