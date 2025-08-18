@@ -26,6 +26,11 @@ I’m passionate about technology and the future it’s building. Learning new t
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/regis2077?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/regis2077">
+</picture>
+
 ##   Let's connect!
 <p>
   <a href="mailto:gbrregisdev@gmail.com">
