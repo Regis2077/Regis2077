@@ -10,7 +10,7 @@ With all the current hype, I also have a great interest in AI and have participa
 
 Learning new things and facing challenges is what keeps me motivated. You can get to know me better and see my trajectory in detail in my [digital garden](https://gabrielregis.com).
 
-## Tech Stack
+## Tech Stack and nexts steps
 
  [![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,nestjs,docker,aws,vercel,jest&perline=11)](https://skillicons.dev) 
 
