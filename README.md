@@ -1,41 +1,42 @@
-## Hello and welcome to my GitHub Profile 🤘
+## Thanks for your visit!
 
-I’m a developer passionate about understanding the web in its entirety — not only how to build interfaces, but also how things work behind the scenes. My goal is to deeply understand every layer that involves web development: from architecture, backend, APIs, databases, and infrastructure to performance, SEO, accessibility, and user experience. While I have strong frontend experience, I’m constantly evolving to become a complete developer — someone who understands the full cycle of modern web applications. I’m also interested in management, team organization, and technical leadership, aiming to combine technical excellence with efficient processes.
+A web enthusiast, interested not only in how to build things using the most diverse technologies, but also in how everything works behind the scenes. A goal I’ve had since the beginning of my career is to increasingly and deeply understand every layer involved in development, from architecture, backend, databases, and infrastructure, to what ultimately reaches the user.
 
-I currently work heavily within the VTEX ecosystem, building high-performance, scalable e-commerce solutions aimed at driving store growth, increasing conversion, and enhancing customer experience. My daily routine involves developing storefronts, landing pages, and headless commerce architectures with VTEX IO and FastStore to support business expansion and operational excellence.
+As a software engineer, although I have dedicated myself full-time as a developer in recent years, I also have a strong interest in management, architecture roles, team organization, and technical leadership, seeking to combine the technical expertise I've acquired in my career with other areas to make interesting things happen.
 
-I’m passionate about technology and the future it’s building. Learning new things and embracing challenges keep me motivated.
+Currently, my work revolves around cloud and headless architecture, developing applications with React, Next, and Node.js, managing APIs, and modernizing payment gateways and distributed integrations (payments, logistics, ERP). Today I work with [VTEX](https://vtex.com/), which involves dealing with challenges in performance, scalability, SEO, and user experience in high-traffic environments.
 
----
+With all the current hype, I also have a great interest in AI and have participated in several internal projects at the companies I’ve worked for, focused on implementing artificial intelligence in the development cycle from task automation, prompt engineer and code generation to supporting process optimization.
+
+Learning new things and facing challenges is what keeps me motivated. You can get to know me better and see my trajectory in detail in my [digital garden](gabrielregis.com).
 
 ## Tech Stack
 
-**VTEX Expertise:**  VTEX CMS, VTEX IO, FastStore, Masterdata
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,nestjs,docker,aws,vercel,jest&perline=11)](https://skillicons.dev) 
 
-**Languages:**  JavaScript, TypeScript, Python, 
+**Languages:** JavaScript ES6+, TypeScript, Python, SQL
 
-**Front-End:**  React, Next.js, Tailwind CSS, Bootstrap, HTML, CSS, Sass
+**Front-End:** React, Next.js, Vite, Tailwind CSS, Sass, HTML5, CSS3, Styled Components
 
-**Back-End:**  Node.js, GraphQL, REST, Strapi, Prisma
+**Back-End:** Node.js, GraphQL Apollo, NestJS, Strapi CMS, Prisma ORM, tanstack
 
-**Databases:**  MySQL, NoSQL, Neo4j
+**Databases:** MySQL, PostgreSQL, NoSQL MongoDB/Redis, Neo4j Graph Databases, Vector Databases Pinecone/pgvector
 
-**Tools:**  Git, GitHub, Bitbucket, Figma, Postman, Insomnia, Storybook, Lighthouse, Jira, Monday
+**Testing & QA:** Jest, Vitest, Supertest, Playwright E2E, Testing Library, TDD Test-Driven Development
 
-**Deploy & Cloud:**  Vercel, Heroku
+**Tools & Design:** Git, GitHub, Bitbucket, Figma Dev Mode, Storybook, Lighthouse, Postman, Insomnia, Jira, Monday, Sentry Observability
+
+**Deploy & Cloud:** Vercel, Heroku, AWS.
+
+**Methodologies:** Scrum, Kanban.
+
+**VTEX Expertise:** VTEX IO, FastStore, VTEX CMS, Masterdata V1/V2, Checkout UI Extensions, Intelligent Search, Integration Hub
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/regis2077?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/regis2077">
-</picture>
+###  Thanks for reading this far, let's talk!
 
-##   Let's connect!
 <p>
-  <a href="mailto:gbrregisdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/gabrielregisdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
