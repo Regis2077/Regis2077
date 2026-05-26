@@ -34,4 +34,4 @@ Learning new things and facing challenges is what keeps me motivated. You can ge
 
 ---
 
-###  Thanks for reading this far, let's talk!
+### Let's build something!
