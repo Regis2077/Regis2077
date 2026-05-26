@@ -10,12 +10,6 @@ With all the current hype, I also have a great interest in AI and have participa
 
 Learning new things and facing challenges is what keeps me motivated. You can get to know me better and see my trajectory in detail in my [Work Page](https://work.gabrielregis.com).
 
-## Languages
-
-- 🇧🇷 **Portuguese**: Native
-- 🇦🇷 **Spanish**: B2
-- 🇺🇸 **English**: B2
-
 ## Tech Stack and nexts steps
 
  [![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,nestjs,docker,aws,vercel,jest&perline=11)](https://skillicons.dev) 
@@ -41,9 +35,3 @@ Learning new things and facing challenges is what keeps me motivated. You can ge
 ---
 
 ###  Thanks for reading this far, let's talk!
-
-<p>
-  <a href="https://www.linkedin.com/in/gabrielregisdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
