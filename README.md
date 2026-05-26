@@ -8,7 +8,7 @@ Currently, my work revolves around cloud and headless architecture, developing a
 
 With all the current hype, I also have a great interest in AI and have participated in several internal projects at the companies I’ve worked for, focused on implementing artificial intelligence in the development cycle from task automation, prompt engineer and code generation to supporting process optimization.
 
-Learning new things and facing challenges is what keeps me motivated. You can get to know me better and see my trajectory in detail in my [digital garden](https://gabrielregis.com).
+Learning new things and facing challenges is what keeps me motivated. You can get to know me better and see my trajectory in detail in my [Work Page](https://work.gabrielregis.com).
 
 ## Languages
 
